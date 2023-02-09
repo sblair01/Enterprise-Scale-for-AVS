@@ -77,7 +77,7 @@ This option gives you more flexibility as it can scale up to over thousands of p
 
 Which gives you flexibility in your design patterns.
 
-![pubip.png](./images/pubip.png)
+![pubip.png](./images/publicip.png)
 
 ### Design Considerations:
 
