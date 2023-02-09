@@ -122,12 +122,6 @@ Use ARS to dynamically populate segments from Azure VMware Solution to the Hub n
 
 https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/nva-ha?tabs=cli
 
-
-### DDoS Protection
-Consider using WAF with App Gateway for Layer 7 communication and DDoS protection for the hub and spoke networks
-
-![wafappgw.png](./images/wafappgw.png)
-
 ### DDoS Protection (In Progress)
 Consider using WAF with App Gateway for Layer 7 communication and DDoS protection for the hub and spoke networks
 
